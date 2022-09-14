@@ -3,7 +3,6 @@
 /**
  * print_last_digit - Check main
  * @r: An integer input
- * 
  * Return: last digit of number 
  */
 int print_last_digit(int r)
