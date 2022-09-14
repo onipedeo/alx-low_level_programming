@@ -4,7 +4,7 @@
  *_abs - Check main
  * @r: An integre input
  * 
- * Return: Absolute value of number r
+ * Return: Absolute value of number
  */
 int _abs(int r)
 {
